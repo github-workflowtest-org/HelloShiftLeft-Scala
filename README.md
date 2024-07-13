@@ -15,7 +15,7 @@ $ sbt run
 
 See routes at [config/routes](config/routes).
 
-Use `localhost` as host name in the URLs
+Use `localhost` as host name in the URLs 
 
 To interact with the endpoints use `curl` (or any other tool)
 

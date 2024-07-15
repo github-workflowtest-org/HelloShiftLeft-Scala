@@ -6,7 +6,7 @@ $ file ./target/helloshiftleft-play-jpa-scala-0.0.1-SNAPSHOT.jar
 ```
 
 ```
-$ sbt run 
+$ sbt run  
 ```
 
 # Http routes 
